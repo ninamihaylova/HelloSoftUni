@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloSoftUni", "HelloSoftUni\HelloSoftUni.csproj", "{459E9786-A263-4AB3-AD19-6BE529E8380E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459E9786-A263-4AB3-AD19-6BE529E8380E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459E9786-A263-4AB3-AD19-6BE529E8380E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459E9786-A263-4AB3-AD19-6BE529E8380E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459E9786-A263-4AB3-AD19-6BE529E8380E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
